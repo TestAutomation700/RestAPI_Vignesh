@@ -1,0 +1,8 @@
+2025-03-14 17:47:32,299 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-14 17:52:07,551 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\0035G3744\RestAPI_Vignesh\RestAPI_Practice\pom.xml
+2025-03-14 17:52:10,843 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RestAPI:RestAPI_Practice:0.0.1-SNAPSHOT @ C:\Users\0035G3744\RestAPI_Vignesh\RestAPI_Practice\pom.xml.
+2025-03-14 17:52:13,734 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestAPI_Practice/src/main/java
+2025-03-14 17:52:13,774 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestAPI_Practice/src/test/java
+2025-03-14 17:52:14,862 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2025-03-14 17:52:16,622 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\0035G3744\RestAPI_Vignesh\RestAPI_Practice\src\main\resources
+2025-03-14 17:52:16,627 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\0035G3744\RestAPI_Vignesh\RestAPI_Practice\src\test\resources
